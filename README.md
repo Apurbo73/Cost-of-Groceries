@@ -1,4 +1,4 @@
-### Cost-of-Groceries
+### Cost of Groceries
 
 ### Explanation:
 For each test case, we read N and X.
